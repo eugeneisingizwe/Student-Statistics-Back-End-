@@ -11,6 +11,8 @@ Finally, I am spent the remaining time deploying the application using MongoDB A
 
 ## Usuage
 
+```npm start```
+
 ## User Story
 
 
